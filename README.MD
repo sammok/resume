@@ -27,6 +27,12 @@
 ### NG项目
 [Justdex 神奇宝贝图鉴](https://github.com/SukeBeta/Justdex)
 
+负责: UI设计, 前端页面开发, angular.js RESTFUL架构与逻辑开发
+
+使用到的技术: html5, css3, Google Meterial Design, Angular.js, underscore.js
+
+Workflow: Git, Grunt
+
 神奇宝贝是任天堂出品的老牌热门掌机游戏, 玩家们时常需要查询pokemon的信息，于是我们基于RESTFUL架构, 使用pokemon api提供的静态数据, 
 结合Angular的MVVM进行页面的架构, 开源项目, 欢迎参与开发~~
 
@@ -35,17 +41,29 @@
 正在开发中.....
 
 ### 常规项目
-[华润集团e万家在线购物商城]()
+[华润集团e万家在线购物商城](http://www.ewj.com/) 内测中, 可访问但无法注册
+
+职位:项目主前端工程师, 负责e万家PC端的页面开发, 移动端的前端工作策划与安排
+
+使用到的技术: xhtml css css3 knowout.js(后端主要的架构), java
+
+Workflow: Git, Grunt
 
 目前还在开发中的项目, 华润集团2015年的新战略部署, 项目由德勤中国进行项目管理, 广州信景技术公司负责程序开发, 上海思烁
 负责全平台设计, 我接手了之前前端哥们写的页面, 在很短的时间内了解了整个项目,
-开发的一切都在把控之中, 电商项目页面内容很多很复杂,上线时间迫在眉急, 不过经过wolf与广州的程序员同学的努力, e万家的PC端即将预计在2月6日上线,
+开发的一切都在把控之中, 电商项目页面内容很多很复杂,上线时间迫在眉急, 不过经过wolf与广州的程序员同学的努力, e万家的PC端在2月6日上线,
 正式启动运营
 
 
 [Grid Diary格志日记-web云输入端](http://type.griddiaryapp.com/)
 
-一款优秀又受人喜爱的Apple 手机App, 以独特的问答模式来记录你每天发生的故事, 目前已有40万+的海外用户, 后端技术以Ruby on rails
+职位: 前端工程师, 负责PC端的云输入页面应用开发
+
+使用到的技术: html, css3, rails slim, sass, coffee script, ruby on rails(后端架构)
+
+Workflow: Git
+
+Grid Diary 一款优秀又受人喜爱的Apple 手机App, 以独特的问答模式来记录你每天发生的故事, 目前已有40万+的海外用户, 后端技术以Ruby on rails
 进行架构, 主要负责网页输入端的应用开发, 此页面需要用apple移动设备下载安装grid diary之后, 在app中扫码才能进入在线日志编辑,
 
 此app是厦门一个很赞的团队 [Sumi Interactive](https://github.com/Sumi-Interactive)的主要项目, 他们的开发流很赞
