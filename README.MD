@@ -85,4 +85,4 @@ Tele: 18516108504
   
 Email: sammok2003@hotmail.com
 
-Github: (https://github.com/sammok/)[https://github.com/sammok/]
+Github: [https://github.com/sammok/](https://github.com/sammok/)
