@@ -80,5 +80,9 @@ Grid Diary 一款优秀又受人喜爱的Apple 手机App, 以独特的问答模�
 
 # 联系方式
 Tele: 18516108504
+
   QQ: 292404014
+  
 Email: sammok2003@hotmail.com
+
+Github: (https://github.com/sammok/)[https://github.com/sammok/]
