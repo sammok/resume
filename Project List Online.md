@@ -12,7 +12,7 @@
 ## Tencent
 [腾讯应用宝H5设计开发提案 - 五感](http://www.sisobrand.com/h5/fiveFeels/index.html) 
 
-[腾讯火影忍者手游](http://yes.qq.com/act/a20150516yesyry/)
+[腾讯火影忍者手游](http://sisobrand.com/h5/tx_naruto2/dist/)
 
 [腾讯页游节信封](http://yes.qq.com/act/a20150516yesyry/)
 
