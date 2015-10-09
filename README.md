@@ -34,7 +34,7 @@
 
 Workflow: Git, Grunt
 
-上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计, 故使用Angular.js Framework进行前端页面的开发, 页面有许多Asynchronous的地方, 所以进行了许多Promise和Loading的处理
+上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计
 
 
 ### 常规项目
@@ -48,11 +48,6 @@ Workflow: Git, Grunt
 
 上海新车间的创客大爆炸官方网, 与上海最早创客空间李大维合作, 网站为创客们提供了创客的新闻，教程，与组织。
 
-网站的页面较多，关系复杂，我将前端架构搭的很稳定, 开发页面结构清晰行云流水, 现版创客大爆炸是第二次改版, 在之前项目的基础上很轻松的就完成了大幅度的改版, 虽然已经有半年没review这个项目的代码了, 但改版的时候立即就上手
-
-网站项目栏目需要node generator的applicaion, 我使用了国外一个专业的lib, cytoscape来进行功能开发, 即使国内没有合适的文档与使用教程, 在经过几天的摸索与阅读官方API后, 我将节点生成器的功能实现了出来
-
-
 [Grid Diary格志日记-web云输入端](http://type.griddiaryapp.com/)
 
 职位: 前端工程师, 负责PC端的云输入页面应用开发
@@ -61,7 +56,7 @@ Workflow: Git, Grunt
 
 Workflow: Git
 
-Grid Diary 一款优秀又受人喜爱的Apple 手机App, 以独特的问答模式来记录你每天发生的故事, 目前已有40万+的活跃海外用户, 后端技术以Ruby on rails进行架构, 主要负责网页输入端的应用开发, 此页面需要用apple移动设备下载安装grid diary之后, 在app中扫码才能进入在线日志编辑
+Grid Diary 一款优秀又受人喜爱的Apple 手机App, 以独特的问答模式来记录你每天发生的故事, 目前已有40万+的活跃海外用户, 后端技术以Ruby on rails进行架构, 此页面需要用apple移动设备下载安装grid diary之后, 在app中扫码才能进入在线日志编辑
 
 此app是厦门一个很赞的团队 [Sumi Interactive](https://github.com/Sumi-Interactive) 的主要项目, 他们的workflow很赞
 
@@ -75,18 +70,16 @@ Grid Diary 一款优秀又受人喜爱的Apple 手机App, 以独特的问答模�
 
 我也会跟随着国外的教程文档不断的学习最新的知识, 同时也上各种国外的公开课, 系统的学习计算机科学, 目前学习Haskell(Pure Functional programming language)中, 通过Haskell学习计算机科学, 也计划着继续学习Java, 通过Java来学习软件工程
 
-我的目标不仅仅局限于前后端, 我会不断通过最好的资源教程学习计算机科学与软件工程, 做一个功力深厚的科班程序员
-
 我还有一个有爱的生活中的团队, 他们目前都在澳洲国立大学读计算机科学, 他们会经常教我一些新知识, 指引我的技术路线, 希望将来的一天能汇合一起战斗.
 
 # 教育与证书
 - **2015 JUNE** MIT(edx) [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_6+2T2015/info)
 
-<img src=http://chuantu.biz/t2/14//1444292472x-1566638182.png width="800"/>
+	**[Certification Link](http://chuantu.biz/t2/14//1444292472x-1566638182.png)**
 
 - **2015 MARCH** 香港科技大学(edx) [HKUSTx: COMP102.1x Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2015/info)
 
-<img src=http://chuantu.biz/t2/14//1444278893x-1566638182.png width="800" style="border: 1px solid #0ba2e0; border-top-width:8px;"/>
+	**[Certification Link](http://chuantu.biz/t2/14//1444278893x-1566638182.png)**
 
 
 # 联系方式
