@@ -90,7 +90,3 @@ QQ: 292404014
 Email: sammok2003@hotmail.com
 
 Github: [https://github.com/sammok/](https://github.com/sammok/)
-
-
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事
