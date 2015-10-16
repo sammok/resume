@@ -17,10 +17,9 @@
 # 技能概括
 - 代码癖, 尽量让自己的代码变得优雅可读, 否则无法忍受自己
 - XHTML and CSS 有很不错的大型网站开发经验, 对页面的代码架构有自己的见解
-- Javascript Object Oriented Programming
+- Javascript Object Oriented Programming, Haskell, Python, Java
 - Mongodb, Express.js, Angular.js, Node.js
-- Angular.js, 此技术类型准备作为未来的发展方向
-- Node.js, 爱不释手, 有了它, 自动化开发流程可以减轻很多的工作量, 项目管理更方便
+- 极强自学能力, 对知识与实力的追求
 - 计算机科学, 丰富的计算机理论基础让代码更自然清晰, 学习Haskell中, 已学过并毕业在MIT大学计算机编程导论课程(Edx)
 - 逗: 时而会在团队中突然表现很逗
 
