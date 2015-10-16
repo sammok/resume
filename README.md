@@ -19,7 +19,7 @@
 - XHTML and CSS 有很不错的大型网站开发经验, 对页面的代码架构有自己的见解
 - Javascript Object Oriented Programming, Haskell, Python, Java
 - Mongodb, Express.js, Angular.js, Node.js
-- 极强自学能力, 对知识与实力的追求
+- 极强自学能力, 能阅读英文文档, 对知识与实力的追求
 - 计算机科学, 丰富的计算机理论基础让代码更自然清晰, 学习Haskell中, 已学过并毕业在MIT大学计算机编程导论课程(Edx)
 - 逗: 时而会在团队中突然表现很逗
 
