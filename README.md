@@ -1,31 +1,34 @@
 # 信息
 - 姓名：莫强龙
 - 出生日期：1995-05-16
-- 职位：前端工程师 / FullStack Developer
+- 职位：Web 全栈工程师 / FullStack Developer
 - 工作年限：三年
 - 目前状态：在职
 
 # 自我介绍
 喜欢敲代码, 喜欢研究类似ng的新兴技术, 生活中一般只有编程, 曾经喜爱玩竞技类射击网游, 当过战队大队长, 但现在总感觉时间不够用
 
-喜欢读别人的代码, 能从中吸取到每个人编程多年的好习惯与新技能, 喜欢买书, 特爱原版的技术书籍, 因为对于技术书籍来说, 用中文来描述与解释技术知识实在是青涩苦口, 不如看英语来的直白
+喜欢读别人的代码, 能从中吸取到每个人编程多年的好习惯与新技能, 拥有许多优秀原文书籍, 喜欢看书(中文译文书除外), 每一次看书都会带来无限的快感, 喜欢技术分享, 跟我一起玩的朋友们都会互相携手前进
 
-得力助手是google, 没有它, 战斗力会下降, 看好未来前端的MEAN时代与前端工业自动化, 希望在新时代的来临之前，争取混个新时代的老鸟当当
+极强自学能力, 轻松优雅上手 Node.js 转型全栈, 核心学习方向是 Computer Science, 前后端来说 在拥有良好的CS基础下 成为技术专家只是时间上的事
+
+得力助手是google, 没有它, 战斗力会直线下降, 看好前端的MEAN时代与工业自动化
 
 为人嘛..心肠友善, 喜爱分享与交流知识, 小圈子的孩子们尊称狼哥
 
 # 技能概括
-- 代码癖, 尽量让自己的代码变得优雅可读, 否则无法忍受自己
-- XHTML and CSS 有很不错的大型网站开发经验, 对页面的代码架构有自己的见解
+- 代码癖, 尽量让自己的代码变得优雅可读, 否则无法忍受自己, 维护我代码的人总会为认为它们清晰好读
+- XHTML and CSS 有很不错的大型网站开发经验, 对页面的代码架构有自己的见解(面试请别问我效果的实现 毫无含义哦^ ^)
 - Javascript Object Oriented Programming, Haskell, Python, Java
 - Mongodb, Express.js, Angular.js, Node.js
+- Less, Scss, Gulp, Grunt, Git (这行我真不想写.. 但许多人喜欢看到技能包括这些呀 没有出现的技能我可以随时去看文档用哦)
 - 极强自学能力, 能阅读英文文档, 对知识与实力的追求
 - 计算机科学, 丰富的计算机理论基础让代码更自然清晰, 学习Haskell中, 已学过并毕业在MIT大学计算机编程导论课程(Edx)
 - 逗: 时而会在团队中突然表现很逗
 
 # 项目开发经验
 ### NG项目
-[Sisobrand Official Website](http://www.sisobrand.com/h5/siso_official_angular/public/#/home)
+[Sisobrand Official Website](http://www.sisobrand.com)
 
 负责: 技术架构协助
 
@@ -34,6 +37,19 @@
 Workflow: Git, Grunt
 
 上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计
+
+#### 后端项目
+[Sisobrand Restful Content manamgement system](https://github.com/SisoInteractive/siso_server)
+
+负责: CMS功能设计, Node.js CMS开发
+
+使用到的技术: Node.js, MongoDB, Redis Embeded, Javascript, Scss
+
+Workflow: Git, Gulp
+
+优雅的为公司 Angular 官网定制的内容管理系统
+
+项目分析: [基于 Restful API 的 Content Management System 的开发](https://www.evernote.com/shard/s470/sh/7e961c33-d172-4425-9d25-36d3b057fa63/1287124e3714df9287f1d85dc95a15ab)
 
 
 ### 常规项目
