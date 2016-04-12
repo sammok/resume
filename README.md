@@ -22,6 +22,7 @@
 - Javascript Object Oriented Programming, Haskell, Python, Java
 - Mongodb, Express.js, Angular.js, Node.js
 - Less, Scss, Gulp, Grunt, Git (这行我真不想写.. 但许多人喜欢看到技能包括这些呀 没有出现的技能我可以随时去看文档用哦)
+- 基于 Mac Ox 进行编程, 熟悉使用 linux 系统, 现公司 ubuntu command line server 的部署由我负责
 - 极强自学能力, 能阅读英文文档, 对知识与实力的追求
 - 计算机科学, 丰富的计算机理论基础让代码更自然清晰, 学习Haskell中, 已学过并毕业在MIT大学计算机编程导论课程(Edx)
 - 逗: 时而会在团队中突然表现很逗
