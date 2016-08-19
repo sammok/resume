@@ -91,11 +91,11 @@ Grid Diary 一款优秀又受人喜爱的Apple 手机App, 以独特的问答模�
 # 教育与证书
 - **2015 JUNE** MIT(edx) [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_6+2T2015/info)
 
-	**[Certification Link](http://chuantu.biz/t2/14//1444292472x-1566638182.png)**
+	**[Certification Link](./images/Sam_MIT_Certiffication.png)**
 
 - **2015 MARCH** 香港科技大学(edx) [HKUSTx: COMP102.1x Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+2T2015/info)
 
-	**[Certification Link](http://chuantu.biz/t2/14//1444278893x-1566638182.png)**
+	**[Certification Link](./images/Sam_HK_Certification.png)**
 
 
 # 联系方式
