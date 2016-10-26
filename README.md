@@ -3,7 +3,7 @@
 - 出生日期：1995-05-16
 - 职位：Web 全栈工程师 / FullStack Developer
 - 工作年限：三年
-- 目前状态：待业/创业准备中
+- 目前状态：全职创业
 
 # 自我介绍
 喜欢敲代码, 喜欢研究类似ng的新兴技术, 生活中一般只有编程, 曾经喜爱玩竞技类射击网游, 当过战队大队长, 但现在总感觉时间不够用
@@ -20,7 +20,7 @@
 - 代码癖, 尽量让自己的代码变得优雅可读, 否则无法忍受自己, 维护我代码的人总会为认为它们清晰好读
 - XHTML and CSS 有很不错的大型网站开发经验, 对页面的代码架构有自己的见解(面试请别问我效果的实现 毫无含义哦^ ^)
 - Javascript Object Oriented Programming, Haskell, Python, Java
-- Mongodb, Express.js, Angular.js, Node.js
+- Mongodb, Express.js, Angular.js, Node.js, PM2, Nginx
 - Less, Scss, Gulp, Grunt, Git (这行我真不想写.. 但许多人喜欢看到技能包括这些呀 没有出现的技能我可以随时去看文档用哦)
 - 基于 Mac Ox 进行编程, 熟悉使用 linux 系统, 现公司 ubuntu command line server 的部署由我负责
 - 极强自学能力, 能阅读英文文档, 对知识与实力的追求
@@ -39,12 +39,23 @@ Workflow: Git, Grunt
 
 上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计
 
+### React项目
+[丝瓜导航](http://1e.sg/)
+
+负责: 后端架构与实施
+
+使用到的技术: Nginx, Node.js, Async.js, Express.js, Mongodb, Redis, Javascript
+
+Workflow: Git, Gulp, PM2
+
+分享网页, 官方精选特色网页推送的社交类型网页导航应用
+
 #### 后端项目
 [Sisobrand Restful Content manamgement system](https://github.com/SisoInteractive/siso_server)
 
 负责: CMS功能设计, Node.js CMS开发
 
-使用到的技术: Node.js, MongoDB, Redis Embeded, Javascript, Scss
+使用到的技术: Node.js, MongoDB, Redis, Javascript, Scss
 
 Workflow: Git, Gulp
 
