@@ -29,23 +29,25 @@
 - [Advanced Programming in the Unix Environment]
 - [HTTP权威指南]
 
-####  Others
+####  课外书
 - [Practical Vim]
+- [The Mythical Man-Month]
 
 ##  个人全栈路线
-`HTML, CSS` -> `Javascript` -> `Node.js, MongoDB, Redis, Nginx` -> `HTTP协议与通讯流程` -> `C` -> `Unix环境编程`
+`HTML, CSS` -> `Javascript` -> `Node.js, MongoDB, Redis, Nginx` -> `HTTP` -> `C` -> `Unix环境编程`
 
 - HTML
   - 标签语义化
 - CSS
   - 掌握CSS每个属性的特性
   - 书写CSS时按照一定的书写规则 组织好CSS属性的书写顺序
+  - 分析UI效果图, 使用模块化的思维去看待与书写效果图的每个模块
 - Javascript
   - 没什么好说的..
 - Node.js, MongoDB, Redis, Nginx
-  - 读完学完我收藏的Node.js资料, 尝试自己从无到有写出后端项目
-- HTTP协议与通讯流程
-  - 读完HTTP权威指南就够了(暂时还没去读的)
+  - 读完学完上述收藏的Node.js资料, 尝试自己从无到有写出后端项目, 多去谷歌找优秀的最佳实践文章看
+- HTTP
+  - 读完HTTP权威指南
 - C
   - The C Programming Language
 - Unix环境编程
