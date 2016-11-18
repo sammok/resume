@@ -17,11 +17,11 @@
 - [Addison Haskell The Craft of Functional Programming 3rd Edition Oct 2011]
 - [Real World Haskell]
 - [Structure and Interpretation of Computer Programs]
-- [Computer Systems - A Programmer's Perspective]
 - [The C Programming Language]
+- [O Reilly - Practical C Programming, 3rd Edition]
+- [Computer Systems - A Programmer's Perspective]
 - [Head First Design Pattern]
 - [Introduction to Algorithms, Third Edition]
-- [O Reilly - Practical C Programming, 3rd Edition]
 - [算法竞赛入门经典]
 
 ####  BackEnd
