@@ -9,6 +9,7 @@
 - [Hands on node.js](https://leanpub.com/hands-on-nodejs) PDF
 - [深入浅出Node.js](https://item.jd.com/11355978.html)
 - [M101JS Mongodb Univer官方系统课程](https://university.mongodb.com/courses/M101JS/about)
+- [MongoDB Cookbook Second Edition] 
 - [MongoDB in Action]
 
 ####  Computer Science
@@ -25,7 +26,7 @@
 - [算法竞赛入门经典]
 
 ####  BackEnd
-- [Packt Nginx HTTP Server 3rd Edition]
+- [Nginx HTTP Server 3rd Edition]
 - [Advanced Programming in the Unix Environment]
 - [HTTP权威指南]
 - [Computer Networks]
