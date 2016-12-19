@@ -27,6 +27,8 @@
 
 ####  BackEnd
 - [Nginx HTTP Server 3rd Edition]
+- [ElasticSearch In Action]
+- [ElasticSearch Server Second Edition]
 - [Advanced Programming in the Unix Environment]
 - [HTTP权威指南]
 - [Computer Networks]
