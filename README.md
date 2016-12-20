@@ -18,7 +18,7 @@
 
 # 技能概括
 - 代码癖, 尽量让自己的代码变得优雅可读, 否则无法忍受自己, 维护我代码的人总会为认为它们清晰好读
-- XHTML and CSS 有很不错的大型网站开发经验, 对页面的代码架构有自己的见解(面试请别问我效果的实现 毫无含义哦^ ^)
+- XHTML and CSS 有很不错的大型网站开发经验, 对页面的代码架构有自己的见解
 - Javascript Object Oriented Programming, Haskell, Python, Java
 - Mongodb, Express.js, Angular.js, Node.js, PM2, Nginx
 - Less, Scss, Gulp, Grunt, Git (这行我真不想写.. 但许多人喜欢看到技能包括这些呀 没有出现的技能我可以随时去看文档用哦)
