@@ -36,6 +36,7 @@
 ####  课外书
 - [Practical Vim]
 - [The Mythical Man-Month]
+- [Essential Mathematics for Games and Interactive Applications, Third Edition]
 
 ##  个人全栈路线
 `HTML, CSS` -> `Javascript` -> `Node.js, MongoDB, Redis, Nginx` -> `HTTP` -> `C` -> `Unix环境编程`
