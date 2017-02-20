@@ -21,7 +21,7 @@
 # 技能概括
 - 代码癖, 尽量让自己的代码变得优雅可读, 否则无法忍受自己, 维护过我代码的人总会为认为它们清晰好读
 - Xhtml & Css 有大量大型网站开发经验, CSS模块化思维的拥护者, 对页面的代码架构有自己的见解
-- 扎实的JavaScript面向对象编程功底, Haskell, Python, Java
+- 扎实的JavaScript面向对象编程功底, 了解 Haskell, Python, Java
 - 熟悉 Mongodb, Express.js, Angular.js, React.js, Node.js, PM2, Nginx, 这些都是我创业中陪伴我的好伙伴
 - 熟悉 Less, Scss, Gulp, Grunt, Git, 生活中不可少的家伙们
 - 基于 Mac Os X, Ubuntu 进行编程, 熟悉使用 linux 系统, 公司的线上服务器部署由我负责
