@@ -33,7 +33,7 @@
 
 # 项目开发经验
 ### React项目
-[丝瓜导航](http://1e.sg/)[2017]
+[丝瓜导航](http://1e.sg/) [2017]
 
 负责: 后端架构与实施
 
@@ -44,7 +44,7 @@ Workflow: Git, Gulp, PM2
 分享网页, 官方精选特色网页推送的社交类型网页导航应用, 登录后查看超多很棒的功能~
 
 ### 后端项目
-[Sisobrand Restful Content manamgement system](https://github.com/SisoInteractive/siso_server)[2015-2016]
+[Sisobrand Restful Content manamgement system](https://github.com/SisoInteractive/siso_server) [2015-2016]
 
 负责: CMS功能设计, Node.js CMS开发
 
@@ -57,7 +57,7 @@ Workflow: Git, Gulp
 项目分析: [基于 Restful API 的 Content Management System 的开发](http://www.jianshu.com/p/0af992c65021 )
 
 ### NG项目
-[Sisobrand Official Website](http://www.sisobrand.com)[2015]
+[Sisobrand Official Website](http://www.sisobrand.com) [2015]
 
 负责: 技术架构协助
 
@@ -68,7 +68,7 @@ Workflow: Git, Grunt
 上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计
 
 ### 常规项目
-[e万家-华润万家网上购物商城](http://www.ewj.com/)[2015]
+[e万家-华润万家网上购物商城](http://www.ewj.com/) [2015]
 
 职位: 前端工程师
 
@@ -76,7 +76,7 @@ Workflow: Git
 
 世界147强的华润集团大型电商项目, 由德勤会计师事务所担任全程咨询策划, 广州信景公司负责后端开发 主要负责了各页面的开发与修复, 由于之前主要的页面是由经验缺乏的团队进行开发，后端调试时页面布局的BUG不断, 导致开发将无法按期完成，华润特邀请我飞往广州五天去担任开发与协调前后端工作
 
-[创客大爆炸官方网](http://www.makercollider.com/)[2015-2016]
+[创客大爆炸官方网](http://www.makercollider.com/) [2015-2016]
 
 职位: 前端工程师
 
