@@ -32,17 +32,6 @@
 - 如果可以的话, 也很乐意指导初级工程师
 
 # 项目开发经验
-### NG项目
-[Sisobrand Official Website](http://www.sisobrand.com)
-
-负责: 技术架构协助
-
-使用到的技术: html5, css3, Angular.js, Node.js
-
-Workflow: Git, Grunt
-
-上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计
-
 ### React项目
 [丝瓜导航](http://1e.sg/)
 
@@ -67,7 +56,26 @@ Workflow: Git, Gulp
 
 项目分析: [基于 Restful API 的 Content Management System 的开发](http://www.jianshu.com/p/0af992c65021 )
 
+### NG项目
+[Sisobrand Official Website](http://www.sisobrand.com)
+
+负责: 技术架构协助
+
+使用到的技术: html5, css3, Angular.js, Node.js
+
+Workflow: Git, Grunt
+
+上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计
+
 ### 常规项目
+[e万家-华润万家网上购物商城](http://www.ewj.com/)
+
+职位: 前端工程师
+
+Workflow: Git
+
+世界147强的华润集团大型电商项目, 由德勤会计师事务所担任全程咨询策划, 广州信景公司负责后端开发 主要负责了各页面的开发与修复, 由于之前主要的页面是由经验缺乏的团队进行开发，后端调试时页面布局的BUG不断, 导致开发将无法按期完成，华润特邀请我飞往广州五天去担任开发与协调前后端工作
+
 [创客大爆炸官方网](http://www.makercollider.com/)
 
 职位: 前端工程师
@@ -77,27 +85,6 @@ Workflow: Git, Gulp
 Workflow: Git, Grunt
 
 上海新车间的创客大爆炸官方网, 与上海最早创客空间李大维合作, 网站为创客们提供了创客的新闻，教程，组织
-
-[e万家-华润万家网上购物商城](http://www.ewj.com/)
-
-职位: 前端工程师
-
-Workflow: Git
-
-世界147强的华润集团大型电商项目, 由德勤会计师事务所担任全程咨询策划, 广州信景公司负责后端开发 主要负责了各页面的开发与修复, 由于之前主要的页面是由经验缺乏的团队进行开发，后端调试时页面布局的BUG不断, 导致开发将无法按期完成，华润特邀请我飞往广州五天去担任开发与协调前后端工作
-
-[Grid Diary格志日记-web云输入端](http://type.griddiaryapp.com/)
-
-职位: 前端工程师, 负责PC端的云输入页面应用开发
-
-使用到的技术: html, css3, rails slim, sass, coffee script, ruby on rails(后端架构)
-
-Workflow: Git
-
-Grid Diary 一款优秀又受人喜爱的IOS App(付费), 以独特的问答模式来记录你每天发生的故事, 目前已有40万+的活跃海外用户, 后端技术以Ruby on rails进行架构, 此页面需要用Apple移动设备下载安装grid diary之后, 在app中扫码才能进入在线日志编辑
-
-此app是厦门一个很赞的团队 [Sumi Interactive](https://github.com/Sumi-Interactive) 的主要项目, 他们的workflow很赞
-
 
 ### 近期H5项目列表
 [项目列表](https://github.com/sammok/resume/blob/master/Project%20List%20Online.md)
