@@ -57,7 +57,6 @@
   - The C Programming Language
 - Unix环境编程
   - 在学完C语言的前提下, 学习 [Advanced Programming in the Unix Environment]
-  
-
-  
-
+ 
+ ## 内功
+ - [软件工程 研究生级 Johns Hopkins University](https://pl.cs.jhu.edu/oose/index.shtml)
