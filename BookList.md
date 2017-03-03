@@ -60,3 +60,4 @@
  
  ## 内功
  - [软件工程 研究生级 Johns Hopkins University](https://pl.cs.jhu.edu/oose/index.shtml)
+ - [ANU 大一级 COMP1100 Introduction to Programming and Algorithms](http://courses.cecs.anu.edu.au/courses/old/COMP1100.2015/1-Labs-Weekly.html)
