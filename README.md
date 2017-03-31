@@ -37,7 +37,7 @@
 
 负责: 后端架构与实施
 
-使用到的技术: Nginx, Node.js, Async.js, Express.js, Mongodb, Redis, Javascript
+使用到的技术: Nginx, Node.js, Async.js, Express.js, Mongodb, ElasticSearch, Redis, Javascript
 
 Workflow: Git, Gulp, PM2
 
