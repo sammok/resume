@@ -3,6 +3,7 @@
 ####  Javascript
 - [李杀 JS系统教程](http://xahlee.info/js/js.html)
 - [Pro Javascript Techniques]
+- [JavaScript 设计模式](https://item.jd.com/11253887.html)
 
 ####  Node.js
 - [Node.js In Action]
