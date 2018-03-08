@@ -39,6 +39,10 @@
 - [The Mythical Man-Month]
 - [Essential Mathematics for Games and Interactive Applications, Third Edition]
 
+#### 数据结构 资料
+- [数据结构(上)(自主模式)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about)
+- [数据结构(下)(自主模式)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about)
+
 ##  个人全栈路线
 `HTML, CSS` -> `Javascript` -> `Node.js, MongoDB, Redis, Nginx` -> `HTTP` -> `C` -> `Unix环境编程`
 
