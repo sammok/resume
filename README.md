@@ -3,7 +3,7 @@
 - 出生日期：1995-05-16
 - 职位：Web 全栈工程师 / FullStack Developer
 - 工作年限：五年半
-- 目前状态：离职
+- 目前状态：离职、休长假
 
 # 自我介绍
 17岁为了追寻自己的梦想, 孤身前往陌生的上海学习取经. 
@@ -23,76 +23,42 @@
 # 技能概括
 - 能独立进行一整套的前端开发工作
 - 热衷学习与自我修炼, 喜欢阅读英文原版技术文档和书籍, 也喜欢带着朋友们一起学习
-- 掌握HTML/CSS/Javascript等前端技术, 轻松写出符合W3C标准, 且兼容主流浏览器的代码
-- 掌握Node.js, 有不少Web App后端的实战开发经验. 了解 Java, Haskell, Python, Ruby
-- 有移动端站点开发经历, 也给腾讯, 苏宁写过不少的H5动画页
+- 掌握 HTML/CSS/Javascript 等前端技术, 轻松写出符合 W3C 标准, 且兼容主流浏览器的代码
+- 掌握 Node.js, 有不少 Web App 后端的实战开发经验. 了解 Java, Haskell, Python, Ruby
+- 有移动端跨平台站点开发经历, 也给腾讯, 苏宁写过不少的H5动画页
 - 对前端框架有一定见解, 可构建高性能的Web应用程序
-- 大型前端项目/应用的前端样式架构设计
+- 大型前端项目/应用的前端样式架构设计、Reusable、Maintainable!
+- 有多国语言项目开发经验
 - 注重团队协作, 能主动承担并组织事情的能力
 - 虽然不是本科学历, 但在注重实战之余也分配了时间在计算机科学基础上
 - 如果可以的话, 也很乐意指导初级工程师
 
-# 项目开发经验
-### React项目
-[丝瓜导航](http://1e.sg/) [2017 - 已下架]
+# 工作经历
+### 2018/09 - 至今 上海芥箴健康咨询有限公司
+title: 开发主管
 
-负责: 后端架构与实施
+负责公司母婴电商、疫苗App、IM系统的管理与开发工作
 
-使用到的技术: Nginx, Node.js, Async.js, Express.js, Mongodb, ElasticSearch, Redis, Javascript
+### 2017/03 - 2018/09 iTutor Group 集团
+title: RD部数学团队、编程团队、会员服务团队前端组长、高级前端工程师
 
-Workflow: Git, Gulp, PM2
+负责以上三个事业团队的日常前端开发任务分配与执行，负责跨语言跨多个平台的会员中心开发，数学教学相关应用开发。
+负责大前端部门对内技术培训与分享。
 
-分享网页, 官方精选特色网页推送的社交类型网页导航应用, 登录后查看超多很棒的功能~
+### 2016 - 2017 互联网产品创业
+与回国的澳洲国立大学计算机科班生好友尝试做了几个互联网产品，包括付费邮箱、官方推荐精品网页与个人网址收藏共享、需要贴邮票发送的网络情书等
 
-### 后端项目
-[Sisobrand Restful Content manamgement system](https://github.com/SisoInteractive/siso_server) [2015-2016]
+### 2015 - 2016 Siso Interactive
+title: 高级前端工程师
+主要负责对视觉设计稿进行动画开发，主要为腾讯互娱部门、苏宁易购、京东等开发移动端 H5 动效活动页，也为大型门户网、电商进行开发工作。
 
-负责: CMS功能设计, Node.js CMS开发
+### 2013 - 2014 这段时间基本在医疗集团度过
+title: 前端工程师
+对集团下的数家医院进行门户网与官网的开发，累计了大量对大型网页的开发经验。
 
-使用到的技术: Node.js, MongoDB, Redis, Javascript, Scss
-
-Workflow: Git, Gulp
-
-优雅的为公司 Angular 官网定制的内容管理系统
-
-项目分析: [基于 Restful API 的 Content Management System 的开发](http://www.jianshu.com/p/0af992c65021 )
-
-### NG项目
-[Sisobrand Official Website](http://www.sisobrand.com) [2015]
-
-负责: 技术架构协助
-
-使用到的技术: html5, css3, Angular.js, Node.js
-
-Workflow: Git, Grunt
-
-上海思烁官方网, 自家公司的官网开发, 设计老总亲自操刀, 整站以Single page风格进行设计
-
-### 常规项目
-[e万家-华润万家网上购物商城](http://www.ewj.com/) [2015]
-
-职位: 前端工程师
-
-Workflow: Git
-
-世界147强的华润集团大型电商项目, 由德勤会计师事务所担任全程咨询策划, 广州信景公司负责后端开发 主要负责了各页面的开发与修复, 由于之前主要的页面是由经验缺乏的团队进行开发，后端调试时页面布局的BUG不断, 导致开发将无法按期完成，华润特邀请我飞往广州五天去担任开发与协调前后端工作
-
-[创客大爆炸官方网](http://www.makercollider.com/) [2015-2016]
-
-职位: 前端工程师
-
-使用到的技术: HTML5, CSS3, Cytoscape.js
-
-Workflow: Git, Grunt
-
-上海新车间的创客大爆炸官方网, 与上海最早创客空间李大维合作, 网站为创客们提供了创客的新闻，教程，组织
-
-### 近期H5项目列表
-[项目列表](https://github.com/sammok/resume/blob/master/Project%20List%20Online.md)
-
-
-# 未来规划
-期待加入一支技术栈走在前沿, 队员间喜爱相互交流又有爱的团队。沉下心研究前后端技术, 希望将来能通过自己的能力带领一支优秀的团队.
+---------------
+To Be Continue
+---------------
 
 # 教育与证书
 - **2015 JUNE** MIT(edx) [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_6+2T2015/info)
