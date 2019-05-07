@@ -61,9 +61,12 @@ title: 前端工程师
 
 对集团下的数家医院进行门户网与官网的开发，累计了大量对大型网页的开发经验。
 
----------------
-## To Be Continue...
----------------
+### 项目主技术栈(近期)
+- HTML / Less / Scss / Javascript
+- ReactJs / Vue.js / Vuex / Axios / Redux / RxJS / Storybook / Ant Design
+- Git / Jenkins / Jira / Confluence
+- Mac OS / Linux
+
 
 # 教育与证书
 - **2015 JUNE** MIT(edx) [MITx: 6.00.1x Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_6+2T2015/info)
