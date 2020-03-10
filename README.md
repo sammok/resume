@@ -1,9 +1,15 @@
-# 信息
+# 个人信息
 - 姓名：莫强龙
-- 出生日期：1995-05-16
 - 职位：资深前端工程师
 - 工作年限：六年
 - 目前状态：在职
+<p></p>
+- Tel: 18516108504
+- Wechat: sammok2003
+- Email: sammok2003@hotmail.com
+- Github: [https://github.com/sammok/](https://github.com/sammok/)
+- SegmentFault: [https://segmentfault.com/u/sammok/notes](https://segmentfault.com/u/sammok/notes)
+
 
 # 自我介绍
 从 12 年互联网开始崛起的 IE6 年代入行，不断自我驱动成长，优先从国外吸取一手技术资源。
@@ -16,7 +22,7 @@
 
 为人亲和，积极向上。
 
-# 技能概括
+# 个人技能
 - 掌握 HTML/CSS/Javascript 等前端技术, 轻松写出符合 W3C 标准, 且兼容主流浏览器的代码
 - 大型前端项目/应用的前端样式架构设计、Reusable、Maintainable!
 - 对前端框架有一定见解, 可构建高性能的 Web 应用程序
@@ -36,23 +42,37 @@
 
 负责公司母婴电商、疫苗App、IM系统的管理与开发工作。Electron 跨平台IM客户端开发。制定开发流程，程序发布流程，搭建内部 KM(Confluence)、Jira、Jenkins(发布脚本编写)。
 
+带来了现代化开发流程，改善了公司的开发、测试、发布、线上错误追踪等流程。
+
 ### 2017/03 - 2018/09 TutorABC(VIPABC)
 **会员服务团队前端组长、高级前端工程师**
 
 负责以上三个事业团队的日常前端开发任务分配与执行，负责跨语言跨多个平台的会员中心开发，青少儿编程 Scratch 语言编辑器开发，数学教学相关应用开发。
-负责大前端部门对内技术培训。
+负责大前端部门对内 CSS 方向地技术培训。
 
+在大前端部门为团队培训过：
+<p>《探索组件化设计》</p>
+<p>《CSS 组件化思维》</p>
+<p>《CSS 基础与状态样式管理》</p>
+<p>《Make A 60fps Web Page》</p>
+<p>《CSS 动画优化实战》</p>
+
+经过一系列 CSS 专题培训之后，团队的 CSS 水平有了明显的提升，大家也都写出了语义化明确且方便维护的 HTML 结构与 CSS 选择器。与意大利面一样的累赘选择器挥手告别，这也是我作为讲师最有成就感的事情。
 
 ### 2016 - 2017 互联网产品创业
 **后端开发**
 
-与回国的澳洲国立大学计算机科班生好友尝试做了几个互联网产品，包括官方推荐精品网页与个人网址收藏共享、付费邮箱、延迟送达的网络情书等
+与回国的澳洲国立大学计算机科班生好友尝试做了几个互联网产品，包括官方推荐精品网页与个人网址收藏共享、付费邮箱、延迟送达的网络情书等。
+
+虽然因为资本寒冬造成拉投资失败遗憾解散团队，但是我们的作品获得了用户们的高度赞赏，清爽亲切的 UI，贴心的功能，让他们喜欢上使用，老板在知乎的几个产品介绍贴曾几天内点赞上千。
 
 
 ### 2015 - 2016 Siso Interactive
 **高级前端工程师**
 
 负责对视觉设计稿进行动画开发，主要为腾讯互娱部门、苏宁易购、京东等开发移动端 H5 动效活动页，也为大型门户网、电商进行开发。
+
+曾与腾讯互娱部门合作开发过腾讯宣传项目最高级别的 棋牌H5动效页<中国人的那张桌>，获得马总关注，腾讯全平台推送 [项目总结 link](https://www.zcool.com.cn/work/ZMTU0OTIxNDQ=.html)。
 
 
 ### 2013 - 2014 医疗集团
@@ -86,7 +106,7 @@ Web 实时通讯客服平台，基于 Websocket 进行开发，结合了聊天�
 
 统一了集团下 TutorABC大陆、TutorABC台湾、TutorABC日本、VipJr 等几个品牌的会员中心，覆盖多国语言与品牌私有化样式形象，适配了 PC、微信、Pad、原生 App  平台
 
-实现一套工程覆盖多个品牌、多国语言、多端设备适配
+实现一套工程独立发版、覆盖多个品牌、多国语言、多端设备适配
 
 技术栈: ReactJs、Redux、Webpack、StoryBook、ES 6、Sass、CSS3、Sentry.IO、SonarQube
 
@@ -98,15 +118,11 @@ Web 实时通讯客服平台，基于 Websocket 进行开发，结合了聊天�
 
 官方会在首页不定时分享一些小众，但是精美实用的各类网址。
 
+大家都很关注用户体验，所以在首页开发了一块实时聊天留言区，有许多用户热情地参与了进来。
+
+在未经商业宣传的情况下，短短一两个月积累了三千多注册用户，有几个铁杆粉丝用户每日都在活跃使用。
+
 技术栈: NodeJs、Express.js、MongoDB、PM2、Redis、Elastic Search
-
--------------------------
-
-# 近期技术栈
-- HTML / Less / Scss / Javascript
-- ReactJs / Vue.js / Vuex / Axios / Redux / RxJS / Storybook / Ant Design
-- Git / Jenkins / Jira / Confluence
-- Mac OS / Linux / Nginx
 
 -------------------------
 
@@ -116,15 +132,3 @@ Web 实时通讯客服平台，基于 Websocket 进行开发，结合了聊天�
 
 - **2015 MARCH** 香港科技大学(edx)
 	- **[Certification Link](./images/Sam_HK_Certification.png)**
-
-
-# 联系方式
-Tel: 18516108504
-
-Wechat: sammok2003
-  
-Email: sammok2003@hotmail.com
-
-Github: [https://github.com/sammok/](https://github.com/sammok/)
-
-SegmentFault: [https://segmentfault.com/u/sammok/notes](https://segmentfault.com/u/sammok/notes)
