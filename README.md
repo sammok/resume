@@ -86,11 +86,11 @@
 
 #  项目经历
 ### IM 在线客服
-2018-2020
+2018-2021
 
 Web 实时通讯客服平台，基于 Websocket 进行开发，结合了聊天、推送产品、成单消息推送、订单管理、客服评价邀请等功能。
 
-此项目使从客户的咨询、下单、到服务核销等一系列流程形成闭环。
+此项目使从客户的咨询、下单、到服务核销等一系列流程形成闭环。从 0 到 1 实现整个项目，无第三方依赖服务。
 
 技术栈: ReactJs、Redux、Webpack、RxJs、ES 6、CSS3、Sass、Lodash、Sentry.IO、Electron、NodeJs
 
@@ -126,7 +126,18 @@ Web 实时通讯客服平台，基于 Websocket 进行开发，结合了聊天�
 
 技术栈: NodeJs、Express.js、MongoDB、PM2、Redis、Elastic Search
 
--------------------------
+### 腾讯棋牌”中国人的那张桌“H5项目
+2015-2015
+
+整个项目基于陆导的创意与腾讯团队提供的文案展开。项目难点在于将交互与 3d 桌子的变形实现平滑的结合，同时要控制整个文件的大小，腾讯最高级别 H5 项目之一，Pony Ma 曾关注此项目，腾讯全平台推送
+
+项目总结：
+
+[直达链接](https://www.zcool.com.cn/work/ZMTU0OTIxNDQ=.html) 或扫码
+
+<img src="https://qr.api.cli.im/newqr/create?data=https%253A%252F%252Fwww.zcool.com.cn%252Fwork%252FZMTU0OTIxNDQ%253D.html&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=500&kid=cliim&key=44ba27accf6665ac8d95d0d11cc751db" width="200" height="200"/>
+
+----------------------
 
 # 教育与证书
 - **2015 JUNE** Massachusetts Institute of Technology(edx) 
