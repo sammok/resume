@@ -145,6 +145,6 @@ Web 实时通讯客服平台，基于 Websocket 进行开发，结合了聊天�
 
 - **2015 MARCH** 香港科技大学(edx)
 	- **[Certification Link](./images/Sam_HK_Certification.png)**
-- **2019 Nov - 2020 Feb** 极客时间 - 算法训练营
+- **2019 Nov - 2020 Feb** 极客时间 - 算法训练营第 5 期
   	- **[Certification Link](./images/algorithm.png)**
 - **2021 July** 西安交通大学网络教育学院 高起专
