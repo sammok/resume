@@ -1,150 +1,92 @@
-# 个人信息
-- 姓名：莫强龙
-- 职位：资深前端工程师
-- 工作年限：八年
-- 目前状态：离职
+## 个人信息
 
-<p> </p>
+姓名：莫强龙 Sam Mok
 
-- Tel: 18516108504
-- Wechat: sammok2003
-- Email: sammok2003@hotmail.com
-- Github: [https://github.com/sammok/](https://github.com/sammok/)
-- SegmentFault: [https://segmentfault.com/u/sammok/notes](https://segmentfault.com/u/sammok/notes)
+工作年限：十一年
 
+Tel / Wechat: 18516108504
 
-# 自我介绍
-从 12 年互联网开始崛起的 IE6 年代入行，不断自我驱动成长，优先从国外吸取一手技术资源。
+年龄：28，男
 
-喜欢从 0 到 1 做出产品，曾经自主创业，也在集团内部创过业，代码洁癖，善于经验积累总结。
+教育：电子科技大学成都学院计算机科学与技术
 
-热爱技术分享，从技术小圈分享知识到给公司内部做技术培训，同事们亲切的称呼莫大师。
+## 自我介绍
 
-平常喜欢弹琴、骑重机。
+12年IE6入行互联网老兵，自驱力强，能够阅读英文文档。有创业精神，曾创业也曾在公司内部负责新的部门。沟通能力强，有项目管理和小组领导经验。代码质量高可读性强，热爱技术分享。喜欢电吉他，骑重机。有大型项目开发经验。
 
-为人亲和，积极向上。
+## 技能
 
-# 个人技能
-- 掌握 HTML/CSS/Javascript 等前端技术, 轻松写出符合 W3C 标准, 且兼容主流浏览器的代码
-- 大型前端项目/应用的前端样式架构设计、Reusable、Maintainable!
-- 对前端框架有一定见解, 可构建高性能的 Web 应用程序
-- 有多国语言项目开发经验
-- Electron 客户端开发、Electron & Web 端并存
-- 注重团队协作, 能主动承担并组织事情的能力
-- 熟悉 Node.js, 有不少 Web App 后端的实战开发经验
-- 熟悉 Git、Jenkins
-- 熟悉 MacOs、Linux 日常使用
-- 如果可以的话, 也很乐意指导初级工程师
+React、Vue、擅长前端样式组件设计、i18n、Electron、Node.js、Jenkins、Express.js
 
----------------
+## 工作经历
 
-# 工作经历
-### 2018/09 - 至今 上海芥箴健康咨询有限公司
-**前端主管**
+### 2022 - 至今 [Union Avionics](https://unionavionics.com/) 全栈工程师
 
-负责公司母婴电商、疫苗App、IM系统的管理与开发工作。Electron 跨平台IM客户端开发。制定开发流程，程序发布流程，搭建内部 KM(Confluence)、Jira、Jenkins(发布脚本编写)。
+自由从业，因痴迷于军用战斗机，从 0 到 1 基于美国军用航空设备规范深入研究军用航空电子设备的设计与工艺，发布了准模拟器级航电设备，为硬件研发了用户客户端、下位机固件等配套服务，自研整舱软硬件分布式系统架构。设备研发从结构设计、3D建模、CNC机加工、表面处理、硬件电路设计、上位机下位机开发均自己实现。产品受客户们的喜爱，客户群体为模拟飞行游戏发烧友、国内航空业界从业人士、加拿大著名军用级 F16 Viper 模拟器玩家(The Viper Simmer)。
 
-带来了现代化开发流程，改善了公司的开发、测试、发布、线上错误追踪等流程。
+### 2018/09 - 2021/04 [上海芥箴健康咨询有限公司](https://www.jzdoctor.com/)  前端工程师
 
-### 2017/03 - 2018/09 TutorABC(VIPABC)
-**会员服务团队前端组长、高级前端工程师**
-
-负责以上三个事业团队的日常前端开发任务分配与执行，负责跨语言跨多个平台的会员中心开发，青少儿编程 Scratch 语言编辑器开发，数学教学相关应用开发。
-负责大前端部门对内 CSS 方向地技术培训。
-
-在大前端部门为团队培训过：
-<p>《探索组件化设计》</p>
-<p>《CSS 组件化思维》</p>
-<p>《CSS 基础与状态样式管理》</p>
-<p>《Make A 60fps Web Page》</p>
-<p>《CSS 动画优化实战》</p>
-
-经过一系列 CSS 专题培训之后，团队的 CSS 水平有了明显的提升，大家也都写出了语义化明确且方便维护的 HTML 结构与 CSS 选择器。与意大利面一样的累赘选择器挥手告别，这也是我作为讲师最有成就感的事情。
-
-### 2016 - 2017 互联网产品创业
-**后端开发**
-
-与回国的澳洲国立大学计算机科班生好友尝试做了几个互联网产品，包括官方推荐精品网页与个人网址收藏共享、付费邮箱、延迟送达的网络情书等。
-
-虽然因为资本寒冬造成拉投资失败遗憾解散团队，但是我们的作品获得了用户们的高度赞赏，清爽亲切的 UI，贴心的功能，让他们喜欢上使用，老板在知乎的几个产品介绍贴曾几天内点赞上千。
+负责公司母婴电商、疫苗App、IM系统的管理与开发工作。跨平台IM客户端开发。制定开发流程，程序发布流程，搭建 KM(Confluence)、Jira、Jenkins。改善了公司的开发、测试、发布、线上错误追踪等流程。
 
 
-### 2015 - 2016 Siso Interactive
-**高级前端工程师**
+### 2017/03 - 2018/09 [平安好学](https://www.pahx.com/)  会员服务、数学业务线前端组长
 
-负责对视觉设计稿进行动画开发，主要为腾讯互娱部门、苏宁易购、京东等开发移动端 H5 动效活动页，也为大型门户网、电商进行开发。
+负责兼容多个子品牌、响应式i18n会员中心开发，青少儿编程 Scratch 语言编辑器开发，英语做题相关应用开发。曾多次给前端部门进行技术培训和分享。
 
-曾与腾讯互娱部门合作开发过腾讯宣传项目最高级别的 棋牌H5动效页<中国人的那张桌>，获得马总关注，腾讯全平台推送 [项目总结 link](https://www.zcool.com.cn/work/ZMTU0OTIxNDQ=.html)。
+### 2016 - 2017 上海丝瓜网络科技有限公司 后端工程师
+
+与 ANU 毕业的好友创业，开发了个人网址收藏共享、付费邮箱、延迟送达的网络情书等。
+
+### 2015 - 2016 Siso Interactive 视觉前端工程师
+
+为大型公司如腾讯互娱部门、苏宁易购、京东等开发移动端 H5 动效活动页，
+开发出的棋牌H5动效页<中国人的那张桌>，获得马总关注，腾讯全平台推送
+
+## 项目经历
+### Union Avionics Simulator Center 2023 - 2024
+**项目描述:** 基于 Electron 为基于 STM32 平台的硬件设备提供不同模拟器平台的数据处理(用户无需选择当前使用的模拟器平台，自动识别)
+
+1. CDC 虚拟串口转发数据至硬件下位机、硬件固件更新(IAP)、Electron 在线更新
+1. ASAR 源码由 Electron Vite 进行转字节码加密保护，无法被反编译
+1. 硬件固件 及 Electron 更新包部署至 CDN 加速网络
+1. 对 Device 进行抽象，通过 Device Manager 进行管理维护
+1. 对模拟器平台数据模块按 Module、String、Float 进行结构化定义、通过 Module Manager 管理
+1. Event Bus 数据分发
+1. 增量数据更新至下位机(以字节为单位)
+1. WebSocket UI 实时通讯、Context Bridge UI 与 Electron 交互
+1. IAP 自定义协议下位机固件更新
+
+**技术栈：** Electron、Electron Vite、React、WebSocket、C++、Lua
 
 
-### 2013 - 2014 医疗集团
-**前端工程师**
 
-对集团下的数家医院进行门户网与官网的开发，累计了对大型网页开发的经验。
+### IM 在线客服 2018-2021
 
------------------
+**项目描述:**  Web 实时通讯客服平台，基于 Websocket 进行通讯，此项目结合了自动分配客服(包含转客服)、聊天、产品推送、成单消息推送、订单管理、客服评价邀请等功能。
 
-#  项目经历
-### IM 在线客服
-2018-2021
+WebSocket 作为消息推送，消息类型组件化，方便扩展新的消息类型与维护，主聊天功能使用虚拟列表进行性能优化，RxJs 进行消息数据去重。
 
-Web 实时通讯客服平台，基于 Websocket 进行开发，结合了聊天、推送产品、成单消息推送、订单管理、客服评价邀请等功能。
+**技术栈：** ReactJs、Redux、Webpack、RxJs、Sass、Ant Design、Sentry.IO、Electron
 
-此项目使从客户的咨询、下单、到服务核销等一系列流程形成闭环。从 0 到 1 实现整个项目，无第三方依赖服务。
+### TutorABC 会员中心 2017-2018
 
-技术栈: ReactJs、Redux、Webpack、RxJs、ES 6、CSS3、Sass、Lodash、Sentry.IO、Electron、NodeJs
+**项目描述:** 统一了集团下 TutorABC大陆、TutorABC台湾、TutorABC日本、VipJr 等多个品牌的会员中心，覆盖多国语言(i18n)与各品牌私有化视觉样式，适配了 PC、微信、Pad、原生 App 平台
 
-### VipJr Code 
-2017-2018
+1. React 为主要 UI 框架进行开发
+1. Story Book 进行 UI 组件预览与管理
+1. Sass 实现多品牌主题与各自品牌特殊样式处理
+1. i18n 支持多国语言
+1. Webpack 一套工程独立发版、覆盖多个品牌、多国语言、多端设备适配
 
-集团内部孵化创业项目，针对 k12 阶段儿童进行在线 Scratch 编程授课，带领前端小组完成了 VipJr 官网、作品社区、Scratch 2.0 编辑器二次开发。
+**技术栈：** ReactJs、Redux、Webpack、StoryBook、ES 6、Sass、CSS3、Sentry.IO、SonarQube
 
-团队获得了集团内部表扬以及获得了奖金。
+### 腾讯棋牌 ”中国人的那张桌“ 动效项目 2015
 
-技术栈: ReactJs、Redux、Webpack、ES 6、Sass、CSS3、Sentry.IO、SonarQube、Action Script、jQuery
+**项目介绍：** 项目难点在于将交互与 3d 桌子的变形实现平滑的结合，同时控制整个序列帧动画资源的大小，腾讯最高级别 H5 项目之一
 
-### TutorABC 会员中心 
-2017-2018
+1. 序列帧精灵图，最大化拼接序列帧，减少资源加载数量
+1. 在可接受的图片观感前提下，进行抽帧、图片资源极限体积压缩
+1. 并行预加载资源图片与音频
+1. 单独实现静态帧状态下的独立动效部分，使资源体积急剧减小，增加首屏加载速度
 
-统一了集团下 TutorABC大陆、TutorABC台湾、TutorABC日本、VipJr 等几个品牌的会员中心，覆盖多国语言与品牌私有化样式形象，适配了 PC、微信、Pad、原生 App  平台
-
-实现一套工程独立发版、覆盖多个品牌、多国语言、多端设备适配
-
-技术栈: ReactJs、Redux、Webpack、StoryBook、ES 6、Sass、CSS3、Sentry.IO、SonarQube
-
-### 丝瓜导航
-2016 已停止运营
-[功能介绍官方视频](https://v.youku.com/v_show/id_XMTc2ODA4MjM2MA==.html)
-
-个人网址导航收藏夹工具，使用户很方便的归类自己收藏的网址。通过分享个人的专题页，轻松将自己的专题收藏分享给他人，他人可以收藏，也可一键导入专题到自己账户。提供了浏览器收藏夹备份功能。
-
-官方会在首页不定时分享一些小众，但是精美实用的各类网址。
-
-大家都很关注用户体验，所以在首页开发了一块实时聊天留言区，有许多用户热情地参与了进来。
-
-在未经商业宣传的情况下，短短一两个月积累了三千多注册用户，有几个铁杆粉丝用户每日都在活跃使用。
-
-技术栈: NodeJs、Express.js、MongoDB、PM2、Redis、Elastic Search
-
-### 腾讯棋牌”中国人的那张桌“H5项目
-2015-2015
-
-整个项目基于陆导的创意与腾讯团队提供的文案展开。项目难点在于将交互与 3d 桌子的变形实现平滑的结合，同时要控制整个文件的大小，腾讯最高级别 H5 项目之一，Pony Ma 曾关注此项目，腾讯全平台推送
-
-项目总结：
-
-[直达链接](https://www.zcool.com.cn/work/ZMTU0OTIxNDQ=.html) 或扫码
-
-<img src="https://qr.api.cli.im/newqr/create?data=https%253A%252F%252Fwww.zcool.com.cn%252Fwork%252FZMTU0OTIxNDQ%253D.html&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=500&kid=cliim&key=44ba27accf6665ac8d95d0d11cc751db" width="200" height="200"/>
-
-----------------------
-
-# 教育与证书
-- **2015 JUNE** Massachusetts Institute of Technology(edx) 
-	- **[Certification Link](./images/Sam_MIT_Certiffication.png)**
-
-- **2015 MARCH** 香港科技大学(edx)
-	- **[Certification Link](./images/Sam_HK_Certification.png)**
-- **2019 Nov - 2020 Feb** 极客时间 - 算法训练营第 5 期
-  	- **[Certification Link](./images/algorithm.png)**
-- **2021 July** 西安交通大学网络教育学院 高起专
+**技术栈：** Canvas
